@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kilkelly-nano-currency-mcp-server-badge.png)](https://mseep.ai/app/kilkelly-nano-currency-mcp-server)
+
 # Nano Currency MCP Server
 [![smithery badge](https://smithery.ai/badge/@kilkelly/nano-currency-mcp-server)](https://smithery.ai/server/@kilkelly/nano-currency-mcp-server)
 
